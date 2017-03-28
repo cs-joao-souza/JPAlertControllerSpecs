@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/cs-joao-souza/JPAlertController.git" }
+  s.source       = { :git => "https://github.com/cs-joao-souza/JPAlertController.git" , :commit => "7722176d634c135c6ce53428a06128c2de8130b8" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
